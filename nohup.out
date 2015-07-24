@@ -1,0 +1,8 @@
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/usr/share/java/jayatanaag.jar 
+Java HotSpot(TM) 64-Bit Server VM warning: ignoring option MaxPermSize=350m; support was removed in 8.0
+[   9651]   WARN - api.vfs.impl.local.FileWatcher - Native file watcher is not executable: <a href="/usr/apps/PhpStorm/bin/fsnotifier64">/usr/apps/PhpStorm/bin/fsnotifier64</a> 
+[1286613]   WARN - Server.PhpWebServerFileHandler - php-cgi not found PHP 5.6 
+[2104235]   WARN - Server.PhpWebServerFileHandler - php-cgi not found PHP 5.6 
+[2167611]   WARN - Server.PhpWebServerFileHandler - php-cgi not found PHP 5.6 
+[2175059]   WARN - Server.PhpWebServerFileHandler - php-cgi not found PHP 5.6 
+[2511758]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  PHP-CGI Server) or icon jar:file:/usr/apps/PhpStorm/plugins/php/lib/php.jar!/icons/php-icon.png 

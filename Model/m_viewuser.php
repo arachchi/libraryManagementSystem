@@ -2,7 +2,7 @@
 
 include('../DbConfiguration/config.php');
 
-$result = mysql_query("SELECT * FROM user ") or die(mysql_error());
+$result = mysql_query("SELECT * FROM User ") or die(mysql_error());
 
 
 ?>
